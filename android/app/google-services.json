@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176083565002",
+    "project_id": "fsphere-ba00d",
+    "storage_bucket": "fsphere-ba00d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176083565002:android:413a8d8709702e75ef7733",
+        "android_client_info": {
+          "package_name": "com.example.fsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDmv8qN6wDroVI_DfWAsAMJRQUmNXhQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

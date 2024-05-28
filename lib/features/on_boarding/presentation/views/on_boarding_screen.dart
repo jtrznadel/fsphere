@@ -1,11 +1,8 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:fsphere/core/common/views/loading_view.dart';
-import 'package:fsphere/core/extensions/context_extension.dart';
 import 'package:fsphere/core/res/colors.dart';
 import 'package:fsphere/core/res/fonts.dart';
 import 'package:fsphere/core/res/media_res.dart';
